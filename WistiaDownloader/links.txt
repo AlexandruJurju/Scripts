@@ -1,33 +1,45 @@
-SECTION: From Zero to Hero Git
-TITLE: 2.1 Why Version Controll
-<p><a href="https://courses.dometrain.com?wvideo=kcwg4o4uba"><img src="https://embed-ssl.wistia.com/deliveries/8eec40870ca57061cc134e9157e34b5dd7e33036.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=kcwg4o4uba">2.1-Why-Version-Control.mp4</a></p>
+SECTION: Career Nailing the Behavioral Interview
+TITLE: 2.1 What are they and why do they matter?
+<p><a href="https://courses.dometrain.com?wvideo=tj76nb1olo"><img src="https://embed-ssl.wistia.com/deliveries/5402ba0561bf9ba940ea2acf142f1aef74930326.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=tj76nb1olo">2.1.mov</a></p>
 
-TITLE: 2.2 Centralized version control vs distributed version control
-<p><a href="https://courses.dometrain.com?wvideo=mah0gvyh8q"><img src="https://embed-ssl.wistia.com/deliveries/ce38d8fd20a378664203b67a41b9b16e33f34d39.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=mah0gvyh8q">2.2-Distributed-vs-Centralized.mp4</a></p>
+TITLE: 2.2 Common interview formats
+<p><a href="https://courses.dometrain.com?wvideo=ki28qvlkbq"><img src="https://embed-ssl.wistia.com/deliveries/f1e7fb647d0eda21313da48eeb1b75ed85b3ef91.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=ki28qvlkbq">2.2.mov</a></p>
 
-TITLE: 3.1 What is git
-<p><a href="https://courses.dometrain.com?wvideo=ilvoavi27s"><img src="https://embed-ssl.wistia.com/deliveries/df2ff36b77222f9a4905b20576051d94b702ff27.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=ilvoavi27s">3.1-What-Is-Git.mp4</a></p>
+TITLE: 2.3 Key competencies
+<p><a href="https://courses.dometrain.com?wvideo=qe3jdvo8a3"><img src="https://embed-ssl.wistia.com/deliveries/560587e765a321bc49caf55896bd9ef6053e33f7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=qe3jdvo8a3">2.3.mov</a></p>
 
-TITLE: 3.2 Let’s install git
-<p><a href="https://courses.dometrain.com?wvideo=336t26dok2"><img src="https://embed-ssl.wistia.com/deliveries/7639ef114481f15091443427c8024a66387c32b4.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=336t26dok2">3.2-Lets-Install-Git.mp4</a></p>
+TITLE: 2.4 Myths
+<p><a href="https://courses.dometrain.com?wvideo=cbwf1a1ly4"><img src="https://embed-ssl.wistia.com/deliveries/e8933871a02e75c2a3373cebe1a191cf50042d68.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=cbwf1a1ly4">2.4.mov</a></p>
 
-TITLE: 3.3 Let’s configure git
-<p><a href="https://courses.dometrain.com?wvideo=o7dkdhkyg5"><img src="https://embed-ssl.wistia.com/deliveries/b4ef8b623dce013691cf740bda73aa3f3d726f85.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=o7dkdhkyg5">3.3-Lets-Configure-Git.mp4</a></p>
+TITLE: 3.1 Research and company specifics
+<p><a href="https://courses.dometrain.com?wvideo=442bmvgbvr"><img src="https://embed-ssl.wistia.com/deliveries/77c9656f15036c1e3f35b70bbb6af142f5f463a5.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=442bmvgbvr">3.1.mov</a></p>
 
-TITLE: 4.1 Creating a repository and our first commit
-<p><a href="https://courses.dometrain.com?wvideo=3pgu4335ql"><img src="https://embed-ssl.wistia.com/deliveries/a71e46a469684a47faa4ce61d7e6f5f35c395eb6.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=3pgu4335ql">4.1-Creating-A-Repository-And-Our-First-Commit.mp4</a></p>
+TITLE: 3.2 Crafting good stories
+<p><a href="https://courses.dometrain.com?wvideo=ebabv6d6po"><img src="https://embed-ssl.wistia.com/deliveries/ce6cd7dd931fd1b320d272ea3bc567aec372333c.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=ebabv6d6po">3.2.mov</a></p>
 
-TITLE: 4.2 Interacting with history
-<p><a href="https://courses.dometrain.com?wvideo=b2ij6d7xwc"><img src="https://embed-ssl.wistia.com/deliveries/15bd08f56ebd6b35f62d400024a6728eea12aea6.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=b2ij6d7xwc">4.2-Interacting-With-History.mp4</a></p>
+TITLE: 3.3 Personal SWOT Analysis
+<p><a href="https://courses.dometrain.com?wvideo=8rw89moq51"><img src="https://embed-ssl.wistia.com/deliveries/ebaa8ec6b9ca5379887bb23fb3182dce2ae5c8a1.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=8rw89moq51">3.3.mov</a></p>
 
-TITLE: 4.3 The .gitignore file
-<p><a href="https://courses.dometrain.com?wvideo=lz54pyamgz"><img src="https://embed-ssl.wistia.com/deliveries/2a727576a28b0a4b987ef6d6f765dea338642bc7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=lz54pyamgz">4.3-Gitignore-Files.mp4</a></p>
+TITLE: 3.4 Practice
+<p><a href="https://courses.dometrain.com?wvideo=yweu18ytln"><img src="https://embed-ssl.wistia.com/deliveries/43a36afe4502ee32dee1578d1fc339dfcebfd1a7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=yweu18ytln">3.4.mov</a></p>
 
-TITLE: 5.1 Branching fundamentals
-<p><a href="https://courses.dometrain.com?wvideo=cfzzzwyc9m"><img src="https://embed-ssl.wistia.com/deliveries/3c233fb49e7a0d0ae6d27d574e71cdba2604a91e.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=cfzzzwyc9m">5.1-Branching-Fundamentals.mp4</a></p>
+TITLE: 3.5 Remote interviews
+<p><a href="https://courses.dometrain.com?wvideo=0dlps772ul"><img src="https://embed-ssl.wistia.com/deliveries/3c4ab3ee1af4c7b1aa575b059ec369b5bb82bd49.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=0dlps772ul">3.5.mov</a></p>
 
-TITLE: 5.2 Oh shoot! I committed to the wrong branch!
-<p><a href="https://courses.dometrain.com?wvideo=wdfp6aim6c"><img src="https://embed-ssl.wistia.com/deliveries/4626dc4f994a6da829ec0865f7ef77877fd3d5fc.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=wdfp6aim6c">5.2-Oh-Shoot-Wrong-Branch.mp4</a></p>
+TITLE: 3.6 Onsite interviews
+<p><a href="https://courses.dometrain.com?wvideo=f3fg728ts5"><img src="https://embed-ssl.wistia.com/deliveries/0f3a5fbf7858cfe0b5b9834da84cae975e6ce49d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=f3fg728ts5">3.6.mov</a></p>
 
-TITLE: 5.3 Do’s and Dont’s about branching
-<p><a href="https://courses.dometrain.com?wvideo=thfycjs4jz"><img src="https://embed-ssl.wistia.com/deliveries/acdf2ec4abd7d31fdcb619d3f22bce8a8cf39e47.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=thfycjs4jz">5.3-Branching-Dos-And-Donts.mp4</a></p>
+TITLE: 4.1 Introductions and first impressions
+<p><a href="https://courses.dometrain.com?wvideo=mwuh0nad3a"><img src="https://embed-ssl.wistia.com/deliveries/bbce4b74718fd8aa8d001f7b02aff972bfc28494.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=mwuh0nad3a">4.1.mov</a></p>
+
+TITLE: 4.2 Interview etiquette
+<p><a href="https://courses.dometrain.com?wvideo=zolbs4gcmy"><img src="https://embed-ssl.wistia.com/deliveries/bb278c37aa2576cfa2f72db8593a8a2e9800881e.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=zolbs4gcmy">4.2.mov</a></p>
+
+TITLE: 4.3 Selecting Your Stories
+<p><a href="https://courses.dometrain.com?wvideo=9odyjazsv8"><img src="https://embed-ssl.wistia.com/deliveries/4886a4574c92634e90e172e076c430735681885a.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=9odyjazsv8">4.3.mov</a></p>
+
+TITLE: 4.4 Handling difficult questions
+<p><a href="https://courses.dometrain.com?wvideo=pqbiq8m7w8"><img src="https://embed-ssl.wistia.com/deliveries/e8ad104adcd4543a59063b61ec86539fa22975ba.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=pqbiq8m7w8">4.4.mov</a></p>
+
+TITLE: 4.5 Body language and key physical signals
+<p><a href="https://courses.dometrain.com?wvideo=dn2mqk9kze"><img src="https://embed-ssl.wistia.com/deliveries/646f0bd624f206f80605b673c41de3fd87d6b4be.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=dn2mqk9kze">4.5.mov</a></p>

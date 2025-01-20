@@ -20,20 +20,35 @@ def download_video(video_id: str, title: str, section: str, index: int):
         # Download using youtube-dl
         url = f"http://fast.wistia.net/embed/iframe/{video_id}"
         cmd = [
-            "youtube-dl",
-            # Format selection - simpler but still high quality
-            "-f", "best",
-            # Retries
-            "--retries", "3",
-            "--fragment-retries", "3",
-            # Resume capability
-            "-c",
-            # Advanced encoding settings for quality and compression
+            "yt-dlp",  # Using yt-dlp instead of youtube-dl for better performance
+            # Format selection
+            "-f", "bestvideo[height<=720][ext=mp4]+bestaudio[ext=m4a]/best[height<=720][ext=mp4]/best",
+            
+            # Download settings
+            "--retries", "5",
+            "--fragment-retries", "5",
+            "--retry-sleep", "5",
+            "--buffer-size", "16K",
+            "-c",  # Continue partial downloads
+            
+            # Rate limiting to prevent timeouts
+            "--limit-rate", "5M",
+            
+            # Concurrent fragments
+            "--concurrent-fragments", "4",
+            
+            # FFmpeg post-processing for smaller file size
             "--postprocessor-args",
-            "-c:v libx264 -crf 23 -preset slower -tune film -movflags +faststart -profile:v high -level 4.1 -c:a aac -b:a 128k -ar 44100 -ac 2",
-            # Skip warnings
+            "-c:v libx264 -crf 28 -preset faster -tune fastdecode -movflags +faststart -profile:v baseline -level 3.0 -c:a aac -b:a 96k -ar 44100 -ac 2",
+            
+            # Error handling
             "--no-warnings",
             "--no-check-certificate",
+            
+            # Progress monitoring
+            "--progress",
+            "--console-title",
+            
             # Output
             "-o", str(output_path),
             url

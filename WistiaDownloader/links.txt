@@ -1,45 +1,78 @@
-SECTION: Career Nailing the Behavioral Interview
-TITLE: 2.1 What are they and why do they matter?
-<p><a href="https://courses.dometrain.com?wvideo=tj76nb1olo"><img src="https://embed-ssl.wistia.com/deliveries/5402ba0561bf9ba940ea2acf142f1aef74930326.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=tj76nb1olo">2.1.mov</a></p>
+SECTION: CSharp getting started
+TITLE: 4.1 What are variables
+<p><a href="https://courses.dometrain.com?wvideo=eee9zeuw2c"><img src="https://embed-ssl.wistia.com/deliveries/09a086ed7fa259f27379e81f0bed2a385e708d88.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=eee9zeuw2c">4.1 - What Are Variables.mp4</a></p>
 
-TITLE: 2.2 Common interview formats
-<p><a href="https://courses.dometrain.com?wvideo=ki28qvlkbq"><img src="https://embed-ssl.wistia.com/deliveries/f1e7fb647d0eda21313da48eeb1b75ed85b3ef91.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=ki28qvlkbq">2.2.mov</a></p>
+TITLE: 4.2 Strings
+<p><a href="https://courses.dometrain.com?wvideo=6acgay16hi"><img src="https://embed-ssl.wistia.com/deliveries/10a75fbcbdecb03877a9173c0602e48acaae9d8c.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=6acgay16hi">4.2 - Strings.mp4</a></p>
 
-TITLE: 2.3 Key competencies
-<p><a href="https://courses.dometrain.com?wvideo=qe3jdvo8a3"><img src="https://embed-ssl.wistia.com/deliveries/560587e765a321bc49caf55896bd9ef6053e33f7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=qe3jdvo8a3">2.3.mov</a></p>
+TITLE: 4.3 Integers
+<p><a href="https://courses.dometrain.com?wvideo=w9ic55yfn8"><img src="https://embed-ssl.wistia.com/deliveries/c6734e9685a697eed286184b9de83feac4d6f637.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=w9ic55yfn8">4.3 - Integers.mp4</a></p>
 
-TITLE: 2.4 Myths
-<p><a href="https://courses.dometrain.com?wvideo=cbwf1a1ly4"><img src="https://embed-ssl.wistia.com/deliveries/e8933871a02e75c2a3373cebe1a191cf50042d68.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=cbwf1a1ly4">2.4.mov</a></p>
+TITLE: 4.4 Float and double
+<p><a href="https://courses.dometrain.com?wvideo=2nux1wvypm"><img src="https://embed-ssl.wistia.com/deliveries/5617f657f5754ed9655fe1135f833ebcf3a89b88.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=2nux1wvypm">4.4 - Float _ Double.mp4</a></p>
 
-TITLE: 3.1 Research and company specifics
-<p><a href="https://courses.dometrain.com?wvideo=442bmvgbvr"><img src="https://embed-ssl.wistia.com/deliveries/77c9656f15036c1e3f35b70bbb6af142f5f463a5.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=442bmvgbvr">3.1.mov</a></p>
+TITLE: 4.5 Boolean
+<p><a href="https://courses.dometrain.com?wvideo=8hafjkzbnu"><img src="https://embed-ssl.wistia.com/deliveries/9ef6a9a3c216f83ca6cf8b0994cd39857fe03e76.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=8hafjkzbnu">4.5 - Boolean.mp4</a></p>
 
-TITLE: 3.2 Crafting good stories
-<p><a href="https://courses.dometrain.com?wvideo=ebabv6d6po"><img src="https://embed-ssl.wistia.com/deliveries/ce6cd7dd931fd1b320d272ea3bc567aec372333c.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=ebabv6d6po">3.2.mov</a></p>
+TITLE: 4.6 Datetime
+<p><a href="https://courses.dometrain.com?wvideo=tie02lkckh"><img src="https://embed-ssl.wistia.com/deliveries/c99bed314ea9100373f1fc74c6a7423f7aed00d5.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=tie02lkckh">4.6 - DateTime.mp4</a></p>
 
-TITLE: 3.3 Personal SWOT Analysis
-<p><a href="https://courses.dometrain.com?wvideo=8rw89moq51"><img src="https://embed-ssl.wistia.com/deliveries/ebaa8ec6b9ca5379887bb23fb3182dce2ae5c8a1.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=8rw89moq51">3.3.mov</a></p>
+TITLE: 4.7 Casting and parsing
+<p><a href="https://courses.dometrain.com?wvideo=g5b8vehl2l"><img src="https://embed-ssl.wistia.com/deliveries/e7e8aec756796639e0ca3879e522762197f9b55a.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=g5b8vehl2l">4.7 - Casting and Parsing.mp4</a></p>
 
-TITLE: 3.4 Practice
-<p><a href="https://courses.dometrain.com?wvideo=yweu18ytln"><img src="https://embed-ssl.wistia.com/deliveries/43a36afe4502ee32dee1578d1fc339dfcebfd1a7.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=yweu18ytln">3.4.mov</a></p>
+TITLE: 5.1 If statements
+<p><a href="https://courses.dometrain.com?wvideo=nal3na275g"><img src="https://embed-ssl.wistia.com/deliveries/8ac6d4d4032ed6a9e572dd912ce3bd058aa8cabc.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=nal3na275g">5.1 - If Statements.mp4</a></p>
 
-TITLE: 3.5 Remote interviews
-<p><a href="https://courses.dometrain.com?wvideo=0dlps772ul"><img src="https://embed-ssl.wistia.com/deliveries/3c4ab3ee1af4c7b1aa575b059ec369b5bb82bd49.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=0dlps772ul">3.5.mov</a></p>
+TITLE: 5.2 Ternary
+<p><a href="https://courses.dometrain.com?wvideo=6ckut6e1iz"><img src="https://embed-ssl.wistia.com/deliveries/eda4e10211f20da8fb36fdd2cfab91f1b72e700b.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=6ckut6e1iz">5.2 - Ternary Operators.mp4</a></p>
 
-TITLE: 3.6 Onsite interviews
-<p><a href="https://courses.dometrain.com?wvideo=f3fg728ts5"><img src="https://embed-ssl.wistia.com/deliveries/0f3a5fbf7858cfe0b5b9834da84cae975e6ce49d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=f3fg728ts5">3.6.mov</a></p>
+TITLE: 5.3 Switch statements
+<p><a href="https://courses.dometrain.com?wvideo=cihdfjfdzs"><img src="https://embed-ssl.wistia.com/deliveries/03faaa932527b79a4e6e066d8846ad2ccfe0283e.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=cihdfjfdzs">5.3 - Switch Statements _ Expressions.mp4</a></p>
 
-TITLE: 4.1 Introductions and first impressions
-<p><a href="https://courses.dometrain.com?wvideo=mwuh0nad3a"><img src="https://embed-ssl.wistia.com/deliveries/bbce4b74718fd8aa8d001f7b02aff972bfc28494.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=mwuh0nad3a">4.1.mov</a></p>
+TITLE: 6.1 Arrays
+<p><a href="https://courses.dometrain.com?wvideo=v7komp6pkq"><img src="https://embed-ssl.wistia.com/deliveries/93a8343fa065108dec117549763aa43805ca16c3.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=v7komp6pkq">6.1 - Arrays.mp4</a></p>
 
-TITLE: 4.2 Interview etiquette
-<p><a href="https://courses.dometrain.com?wvideo=zolbs4gcmy"><img src="https://embed-ssl.wistia.com/deliveries/bb278c37aa2576cfa2f72db8593a8a2e9800881e.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=zolbs4gcmy">4.2.mov</a></p>
+TITLE: 6.2 Lists
+<p><a href="https://courses.dometrain.com?wvideo=qczqhvb0q5"><img src="https://embed-ssl.wistia.com/deliveries/de92126c03b0fa1febba6f2ab14897c2a11c9024.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=qczqhvb0q5">6.2 - Lists.mp4</a></p>
 
-TITLE: 4.3 Selecting Your Stories
-<p><a href="https://courses.dometrain.com?wvideo=9odyjazsv8"><img src="https://embed-ssl.wistia.com/deliveries/4886a4574c92634e90e172e076c430735681885a.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=9odyjazsv8">4.3.mov</a></p>
+TITLE: 6.3 Dictionaries
+<p><a href="https://courses.dometrain.com?wvideo=x0mb5g1aaj"><img src="https://embed-ssl.wistia.com/deliveries/5d499009376cbda4d98437947e0079ea67f99d26.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=x0mb5g1aaj">6.3 - Dictionaries.mp4</a></p>
 
-TITLE: 4.4 Handling difficult questions
-<p><a href="https://courses.dometrain.com?wvideo=pqbiq8m7w8"><img src="https://embed-ssl.wistia.com/deliveries/e8ad104adcd4543a59063b61ec86539fa22975ba.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=pqbiq8m7w8">4.4.mov</a></p>
+TITLE: 7.1 While loops
+<p><a href="https://courses.dometrain.com?wvideo=bj55qy9ys3"><img src="https://embed-ssl.wistia.com/deliveries/0be4eb94030fe8a204155e81962ec007877b3fd1.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=bj55qy9ys3">7.1 - While Loops.mp4</a></p>
 
-TITLE: 4.5 Body language and key physical signals
-<p><a href="https://courses.dometrain.com?wvideo=dn2mqk9kze"><img src="https://embed-ssl.wistia.com/deliveries/646f0bd624f206f80605b673c41de3fd87d6b4be.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=dn2mqk9kze">4.5.mov</a></p>
+TITLE: 7.2 For loops
+<p><a href="https://courses.dometrain.com?wvideo=5fma508eiu"><img src="https://embed-ssl.wistia.com/deliveries/0ce193cc87cb98e823e997c673fd7f0d6d7c40c2.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=5fma508eiu">7.2 - For Loops.mp4</a></p>
+
+TITLE: 7.3 Foreach loops
+<p><a href="https://courses.dometrain.com?wvideo=gkg64hw6sx"><img src="https://embed-ssl.wistia.com/deliveries/0c34f13e9a77af7dabf2cb0de22bd42ecbbb5d54.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=gkg64hw6sx">7.3 - Foreach Loops.mp4</a></p>
+
+TITLE: 8.1 Simple methods
+<p><a href="https://courses.dometrain.com?wvideo=aobk06naf8"><img src="https://embed-ssl.wistia.com/deliveries/a8ada777182d2abbe4a83ba16355a00365162e9a.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=aobk06naf8">8.1 - Simple Method.mp4</a></p>
+
+TITLE: 8.2 Arguments
+<p><a href="https://courses.dometrain.com?wvideo=8fky09z52w"><img src="https://embed-ssl.wistia.com/deliveries/4ead05fad2f6ad4f516ccdc126c107df7f106632.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=8fky09z52w">8.2 - Arguments.mp4</a></p>
+
+TITLE: 8.3 Return types
+<p><a href="https://courses.dometrain.com?wvideo=frtf82x572"><img src="https://embed-ssl.wistia.com/deliveries/2f0133d0de2fe35469333c76159f61260bd79706.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=frtf82x572">8.3 - Return Types.mp4</a></p>
+
+TITLE: 9.1 Debugging
+<p><a href="https://courses.dometrain.com?wvideo=53y4fvub9l"><img src="https://embed-ssl.wistia.com/deliveries/26656e6c3a4b9218d5373aa5c24217db647202e0.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=53y4fvub9l">9.1 - Debugging and Exceptions.mp4</a></p>
+
+TITLE: 9.2 Try catch
+<p><a href="https://courses.dometrain.com?wvideo=g8wtwt0h63"><img src="https://embed-ssl.wistia.com/deliveries/adf4fae19b15390af299d138f6cfd3cbb26d5e57.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=g8wtwt0h63">9.2 - Try Catch.mp4</a></p>
+
+TITLE: 10.1 Intro to object oriented
+<p><a href="https://courses.dometrain.com?wvideo=0xi4lsobyu"><img src="https://embed-ssl.wistia.com/deliveries/d11f7077a6946469802f5ce3c492da3b48eb6c91.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=0xi4lsobyu">10.1 - Intro to Object Oriented Programming.mp4</a></p>
+
+TITLE: 10.2 Reference types
+<p><a href="https://courses.dometrain.com?wvideo=zli5767n95"><img src="https://embed-ssl.wistia.com/deliveries/b9bf5cc57c1b92f21629b79ea64e1a6c43b9e023.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=zli5767n95">10.2 - Reference Types.mp4</a></p>
+
+TITLE: 10.3 Fields and properties
+<p><a href="https://courses.dometrain.com?wvideo=2a26bt2tnl"><img src="https://embed-ssl.wistia.com/deliveries/be0ad384a1926afc578ecd8bf4112fd4f299ba15.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=2a26bt2tnl">10.3 - Fields _ Properties.mp4</a></p>
+
+TITLE: 10.4 Static vs instances
+<p><a href="https://courses.dometrain.com?wvideo=d1uy8nnm7h"><img src="https://embed-ssl.wistia.com/deliveries/3f18c75cc170c0f59381a1b30952d7a9ba117290.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=d1uy8nnm7h">10.4 - Static vs Instances.mp4</a></p>
+
+TITLE: 10.5 Constructors
+<p><a href="https://courses.dometrain.com?wvideo=fcclxwhahs"><img src="https://embed-ssl.wistia.com/deliveries/eec97b9c5cfd9f7f80a176d1f8e974bb10afce69.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button_rounded=1&amp;image_play_button_color=7b796ae0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://courses.dometrain.com?wvideo=fcclxwhahs">10.5 - Constructors.mp4</a></p>

@@ -1,0 +1,7 @@
+1. CHROME - Install an extension for downloading the cookies
+2. Download the cookies FOR COURSERA
+3. RUN VENV: .venv\Scripts\activate
+4.a for single course
+4.b for specialization: 
+    dl_coursera --cookies cookies.txt --slug algorithms --isSpec --how builtin
+    EX: dl_coursera --cookies cookies.txt --slug {SLUG} --isSpec --how builtin

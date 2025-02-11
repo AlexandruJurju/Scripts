@@ -1,0 +1,11 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.coursera.org	TRUE	/	FALSE	1768883701	__204u	4916342487-1737347700482
+.coursera.org	TRUE	/	FALSE	1740161071	CSRF3-Token	1740161070.c7uDLbpJccMV98ge
+.coursera.org	TRUE	/	TRUE	1743617086	CAUTH	22og90FG9z_SjE_XFrBSRUdal_kjfEGayqmI1TyyHN6sPBQhxwHX8LyGesHlZB50JXShXrt8UX7lc8p_67F72g.dZEFS6CaO7VdeoYZ_V9bcA.Gu9Rw-1bThMq41C9RQO5R0juQSSOIR-fvAUIxCvwpz9wDZzr46DZrztKh9_Jal88DVz0E6n_fDXuRqLZu61sZTCP67gYCsCmENcl7jSkOc1bR9u2fzGR-QGpirWUdYHVPOyvLUGRGqIx6ZeRYm3LZRdPpXxJax6HZc_cCyw9R0NCBMMMLr9eA6eSvAsWMpQgBNTXxddGMfd79WddxWljKAgowPyb7IcXDooo1XpCz9ftNsvsBZOHdnWdQ-GzM1uv82Njrp8lnWcl0jtPotzqu7KNPPQlJFTun0HZxJK0G49jSH3BeMLTJ4RDO6NxsJjXUte-sMx_eKmWFuOIeoLGwDnOsTMwYT6qDrqwK4TIqfDfR46vzkhwjYiSV1T9CWYlvr5b4pjYVDEqO_TNJcq5FhBoMKc0sBurU-QjY-L9DFGSHRQaXhSMuHicOGW6eVovUzvsII-ZKNBj3Blc8Kwvbg
+.coursera.org	TRUE	/	FALSE	1739300769	__400r	https%3A%2F%2Fwww.infiniswiss.com%2F
+.coursera.org	TRUE	/	FALSE	1739300769	__400v	d78db916-3613-446c-ab1a-cb7c599b3463
+www.coursera.org	FALSE	/	TRUE	1739300583	csrftoken	V28BFyqEEv3WED7iRi5fqu4l
+.coursera.org	TRUE	/	FALSE	1739302324	__400vt	1739300524161
